@@ -16,7 +16,5 @@
     "url": "https://github.com/NJM8/how-to-npm/issues"
   },
   "homepage": "https://github.com/NJM8/how-to-npm#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.3"
-  }
+  "dependencies": {}
 }
